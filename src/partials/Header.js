@@ -12,7 +12,7 @@ const Header = () => {
     return(
         <AppBar position="static">
             <Toolbar>
-            <IconButton
+            <IconButton 
                 size="large"
                 edge="start"
                 color="inherit"
